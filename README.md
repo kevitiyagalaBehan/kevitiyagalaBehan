@@ -36,37 +36,80 @@
   <h1>SKILLS</h1>
 
 <!-- Programming Languages -->
-  </br>
   <h3>Programming Languages</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-    width="60px"
-    alt="Java">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" height="50px" alt="Java">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60px" height="50px" alt="python">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="60px"
-    alt="Javascript">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" height="50px" alt="Javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60px" height="50px" alt="php">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Frontend Development -->
   </br>
   <h3>Frontend Development</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    width="60px"
-    alt="HTML5">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px" alt="HTML5">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    width="60px"
-    alt="css3">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img       src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="80px" height="47px"/>
+  <img 
+    src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" width="60px" height="50px" alt="bulma">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60px" height="50px" alt="react">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+<!-- Backend Development -->
+<h3>Backend Development</h3>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60px">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60px">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+<br>
+
+<!-- Mobile Application Development -->
+<h3>Mobile Application Development</h3>
+<img 
+  src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60px">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Database -->
+<h3>Database</h3>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60px">  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60px">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Software -->
+<h3>Software</h3>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+  src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevitiyagalabehan&show_icons=true&locale=en&layout=compact" alt="kevitiyagalabehan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevitiyagalabehan&show_icons=true&locale=en&layout=compact" alt="kevitiyagalabehan"/></p>
 
 
