@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **kevitiyagalabehan@gmail.com**
   
-- ⚡ Fun fact **I'm interested in back-end development**
+- ⚡ Fun fact **I'm interested in full-stack development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
