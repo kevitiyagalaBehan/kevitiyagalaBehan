@@ -12,7 +12,7 @@
   <img align="right" top="500" height="185" width="285" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on [Advisa](https://github.com/Code-Wizards-ITUM/Advisa.git)
+<!-- - 🔭 I’m currently working on [Advisa](https://github.com/Code-Wizards-ITUM/Advisa.git) -->
 
 - 🌱 I’m currently learning **Docker, Kubernates, React Native**
 
