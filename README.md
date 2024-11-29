@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on [Advisa](https://github.com/Code-Wizards-ITUM/Advisa.git) -->
 
-- 🌱 I’m currently learning **Docker, Kubernates, React Native**
+- 🌱 I’m currently learning **Docker, Flutter, React Native**
 
 - 💬 Ask me about **Java**
 
@@ -39,9 +39,6 @@
   <h3>Programming Languages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" height="50px" alt="Java">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60px" height="50px" alt="python">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" height="50px" alt="Javascript">
