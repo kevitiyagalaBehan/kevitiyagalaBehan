@@ -14,13 +14,13 @@
 
 <!-- - 🔭 I’m currently working on [Advisa](https://github.com/Code-Wizards-ITUM/Advisa.git) -->
 
-- 🌱 I’m currently learning **Docker, Flutter, React Native**
+- 🌱 I’m currently learning **AWS, Flutter, Angular**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, JavaScript, PHP**
 
 - 📫 How to reach me **kevitiyagalabehan@gmail.com**
   
-- ⚡ Fun fact **I'm interested in full-stack development**
+- ⚡ Fun fact **I'm Interested in Mobile Application Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
