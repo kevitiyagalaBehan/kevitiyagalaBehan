@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on [Advisa](https://github.com/Code-Wizards-ITUM/Advisa.git) -->
 
-- 🌱 I’m currently learning **AWS, Flutter, Angular**
+- 🌱 I’m currently learning **AWS and Angular**
 
 - 💬 Ask me about **Java, JavaScript, PHP**
 
