@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Behan Kevitiyagala</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Full-stack+developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=A+passionate+Full-stack+developer;Let's+build+something+special!"></a>
 </p>
 
 <p align="center">
