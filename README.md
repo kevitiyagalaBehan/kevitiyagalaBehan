@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Behan Kevitiyagala</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=A+passionate+Full-stack+developer|Let's+build+something+special!">
-  </a>
+  <img src="https://camo.githubusercontent.com/1ee07c4b02246311e4739ab72073a61b56eae35897129339c9d87de0103b70f4/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3232266475726174696f6e3d333030302670617573653d35303026636f6c6f723d4637394430302663656e7465723d747275652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c65213b476c61642b746f2b686176652b796f752b68657265212bf09f988a3b4c657427732b6275696c642b736f6d657468696e672b616d617a696e6721">
 </p>
 
 <p align="center">
