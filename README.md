@@ -93,16 +93,18 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60px">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Software -->
-<h3>Software</h3>
-<img 
-  src="https://camo.githubusercontent.com/52cbde92a5e4b92b9997e48041fcb9138d6c8f8b3ab97eb7e10867d0577eb6ae/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7073" alt="photoshop" width="40">
+<!-- Tools -->
+<h3>Tools</h3>
+<img   src="https://camo.githubusercontent.com/52cbde92a5e4b92b9997e48041fcb9138d6c8f8b3ab97eb7e10867d0577eb6ae/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7073" alt="photoshop" width="40">
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img 
   src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40">
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img 
   src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+src="https://camo.githubusercontent.com/e5a9db5c6c95d9986b877048e7455b6456aa616a2e44d974ef9e72f758826146/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" alt="postman" width="40">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
